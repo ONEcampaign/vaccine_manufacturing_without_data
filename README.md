@@ -122,10 +122,12 @@ Embed codes: `<div class="flourish-embed" data-src="story/2430143?1105200"><scri
 
 ## Gavi-related Statistics
 
-Aim: fill in the blank text for... 
-```
-Meanwhile, Africa’s demand for vaccine sovereignty will only become more critical. Six African countries— São Tomé and Príncipe, Nigeria, Kenya, Ghana, Djibouti, and Côte d'Ivoire—are projected to transition out of Gavi support by 2030. These countries represented **XX%** of vaccine doses fully supported by Gavi funding in 2023...
-```
+Aim: Produce the below statistic on current share of Gavi vaccines going to countries predicted to transition away from Gavi support by 2030.  
+
+> Meanwhile, Africa’s demand for vaccine sovereignty will only become more critical. Six African countries—
+> São Tomé and Príncipe, Nigeria, Kenya, Ghana, Djibouti, and Côte d'Ivoire—are projected to transition out
+> of Gavi support by 2030. These countries represented **18%** of vaccine doses fully supported by Gavi funding in 2023...
+
 
 We use data from the [Gavi Shipment 2023 Vaccines - All Regions](https://www.unicef.org/supply/media/20656/file/Gavi-shipments-2023.pdf) dataset. We calculate the share of Gavi funded vaccines going to the six countries who are set to transition away from Gavi support by 2030.
 
