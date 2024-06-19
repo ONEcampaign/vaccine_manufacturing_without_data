@@ -21,14 +21,23 @@ Below outlines each data source, the data visualisations they provide, alongside
 
 ### Data Visualisation(s)
 
-Data visualisation: Waffle chart
-Link: https://public.flourish.studio/story/2435672/
-Embed codes: <div class="flourish-embed" data-src="story/2435672?1105200"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+- Data visualisation: Waffle chart
+- Link: https://public.flourish.studio/story/2435672/
 
-Data visualisation: "Africa produces a fraction of the world's vaccines"
-Link: https://public.flourish.studio/story/2439096/
-Embed codes: `<div class="flourish-embed" data-src="story/2439096?1105200"><script src="https://public.flourish.studio/resources/embed.js"></script></div>`
+Embed code:
 
+```html
+<div class="flourish-embed" data-src="story/2435672?1105200"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+```
+
+- Data visualisation: "Africa produces a fraction of the world's vaccines"
+- Link: https://public.flourish.studio/story/2439096/
+
+Embed code: 
+
+```html
+<div class="flourish-embed" data-src="story/2439096?1105200"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+```
 ### Relevant files
 Core analysis is completed on `who_mi4a_data.py`. Analysed data is stored in `african_vaccine_supply.csv`.
 
@@ -45,9 +54,14 @@ We used this data for all vaccine_supply related statistics in the paper. This i
 
 ### Data Visualisation(s)
 
-Data visualisation: "Africa's share of global vaccine demand is increasing"
-Link: https://public.flourish.studio/story/2439166/
-Embed codes: `<div class="flourish-embed" data-src="story/2439166?1105200"><script src="https://public.flourish.studio/resources/embed.js"></script></div>`
+- Data visualisation: "Africa's share of global vaccine demand is increasing"
+- Link: https://public.flourish.studio/story/2439166/
+
+Embed code: 
+
+```html
+<div class="flourish-embed" data-src="story/2439166?1105200"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+```
 
 ### Relevant files
 Core analysis is completed on `vaccine_demand.py`. Analysed data is stored in `vaccine_demand_by_region.csv`.
@@ -96,9 +110,15 @@ We clarified some issues with the data in [issue 12](https://github.com/ONEcampa
 ## Manufacturing Facility Commitments
 
 ### Data Visualisation(s)
-Data Visualisation: "30 public investment annoucements have been made in Africa"
-Link: https://public.flourish.studio/story/2439172/
-Embed codes: `<div class="flourish-embed" data-src="story/2439172?1105200"><script src="https://public.flourish.studio/resources/embed.js"></script></div>`
+
+- Data Visualisation: "30 public investment annoucements have been made in Africa"
+- Link: https://public.flourish.studio/story/2439172/
+
+Embed code:
+
+```html
+<div class="flourish-embed" data-src="story/2439172?1105200"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+```
 
 ### Relevant Files
 To be added.
@@ -115,9 +135,13 @@ More detail to be added. Data from an old repository.
 
 ### Data Visualisation(s)
 
-Data Visualisation: "But no example is as stark as the “vaccine apartheid” of COVID-19."
-Link: https://public.flourish.studio/story/2430143/
-Embed codes: `<div class="flourish-embed" data-src="story/2430143?1105200"><script src="https://public.flourish.studio/resources/embed.js"></script></div>`
+- Data Visualisation: "But no example is as stark as the “vaccine apartheid” of COVID-19."
+- Link: https://public.flourish.studio/story/2430143/
+
+Embed code: 
+```html
+<div class="flourish-embed" data-src="story/2430143?1105200"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+```
 
 
 ## Gavi-related Statistics
