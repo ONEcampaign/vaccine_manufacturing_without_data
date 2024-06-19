@@ -2,6 +2,8 @@
 
 This repository contains analysis for the updated manufacturing datadive, prepared for health-related summits in June. 
 
+You can see our '[behind the scenes](https://observablehq.com/@one-campaign/africa-vaccine-industry-methodology)' notebook which goes through the data decisions made throughout this project. 
+
 Around 99% of vaccines administered in Africa are produced outside the continent. This has contributed to unequal access to life-saving vaccines and significant health disparities between regions.
 
 The COVID-19 pandemic put a spotlight on this problem when rich countries monopolized the majority of vaccines. In response the African Union set a target of producing 60% of its own vaccines by 2040. 
